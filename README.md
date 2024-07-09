@@ -18,3 +18,31 @@
 - respons.json
 
 <br><br>
+
+## [Chapter 4](https://github.com/DNA-B/JS_expressPractice/blob/main/chapter_summary/Chapter4.md)
+- GET method
+- GET single object
+- GET query
+
+<br><br>
+
+## [Chapter 5](https://github.com/DNA-B/JS_expressPractice/blob/main/chapter_summary/Chapter5.md)
+- Status Code
+- Multiple responses
+
+<br><br>
+
+## [Chapter 6](https://github.com/DNA-B/JS_expressPractice/blob/main/chapter_summary/Chapter6.md)
+- Router
+- ES Module
+
+<br><br>
+
+## [Chapter 7](https://github.com/DNA-B/JS_expressPractice/blob/main/chapter_summary/Chapter7.md)
+- POST method
+- PUT method
+- DELETE method
+
+<br><br>
+
+<br><br>
