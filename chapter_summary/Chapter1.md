@@ -11,6 +11,6 @@
 
 # express.js 설치
 
-```jsx
+```bash
 npm i express
 ```

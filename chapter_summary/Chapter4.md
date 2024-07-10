@@ -29,7 +29,7 @@ app.get("/api/posts/:id", (req, res) => {
     -   `{ limit: '2', sort: 'desc' }`와 같은 값이 `req.query`에 저장된다.
 -   모든 query를 허용하는 것은 위험할 수 있다.
 
-    ```
+    ```jsx
     // Get all posts
     app.get("/api/posts", (req, res) => {
         const limit = parseInt(req.query.limit);

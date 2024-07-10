@@ -1,6 +1,6 @@
 # Status Code
 
-```
+```jsx
 // Get single post
 app.get("/api/posts/:id", (req, res) => {
     const id = parseInt(req.params.id);
@@ -21,7 +21,7 @@ app.get("/api/posts/:id", (req, res) => {
 
 # Multiple responses
 
-```
+```jsx
 // Get single post
 app.get("/api/posts/:id", (req, res) => {
     const id = parseInt(req.params.id);
@@ -37,7 +37,7 @@ app.get("/api/posts/:id", (req, res) => {
 
 -   위의 코드에서 else를 사용하지 않을 수 있다.
 
-```
+```jsx
 // Get single post
 app.get("/api/posts/:id", (req, res) => {
     const id = parseInt(req.params.id);

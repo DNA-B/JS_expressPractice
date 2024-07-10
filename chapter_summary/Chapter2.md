@@ -37,7 +37,7 @@ app.get("/", (req, res) => {
     -   `*res*.send({ message: "Hello World" });`와 같이 **js 객체로 전달**하면 자동으로 stringfy 처리되어 JSON 형식으로 전달된다.
 -   만약 html 파일로 view를 보여주고 싶다면?
 
-    ```jsx
+    ```html
     // index.html
     <!DOCTYPE html>
     <html lang="en">

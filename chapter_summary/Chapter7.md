@@ -19,7 +19,7 @@ router.post("/", (req, res) => {
 
 -   POST에서는 view에서 전달한 form을 parsing하는 기능이 필요하다.
     -   이를 위한 middleware로 아래 두 가지를 보통 사용한다.
-        ```
+        ```jsx
         app.use(express.json());
         app.use(express.urlencoded({ extended: false }));
         ```

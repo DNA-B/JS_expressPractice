@@ -59,7 +59,7 @@ app.use("/api/posts", posts); // (defualt path, route path)
 -   `package.json`에 다음과 같이 추가해주자.
     -   `"type": "module",`
 -   이제 import구문을 사용할 수 있다.
-    ```
+    ```jsx
     import express from "express";
     import path from "path";
     import posts from "./routes/posts.js";
