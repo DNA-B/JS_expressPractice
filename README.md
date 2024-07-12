@@ -67,3 +67,18 @@
 -   ES module에서의 \_\_dirname
 
 <br><br>
+
+## [Chapter 10](https://github.com/DNA-B/JS_expressPractice/blob/main/chapter_summary/Chapter10.md)
+-   cookies
+-   cookie-parser
+-   signed-cookie
+
+<br><br>
+
+## [Chapter 11](https://github.com/DNA-B/JS_expressPractice/blob/main/chapter_summary/Chapter11.md)
+
+-   session
+-   session 유지
+-   session 불러오기
+
+<br><br>
